@@ -6,18 +6,18 @@
 
 ## Requirements
 
-1. Team Members: `<Who's working on this app?>`
-2. App Name: `<What's the app name?>`
+1. Team Members: Matt Martindale, Claudia Maciel, Juan Mariscal
+2. App Name: Mood Tracker
 3. App Description (3-5 sentences):
 
-    `<Explain your app to your Grandma (or a 5-year old child)>`
+    Choose whatever mood you're feeling and add a comment as to why or what made you feel that mood. A motivational quote will appear to motivate you to improve. A graph will show your Moods by the week.
     
 4. Your #1 Customer (Who would use your app? Why now?)
  
-    `<Be specific and focus on a real person>`
+    Anyone looking to better their moods, track and improve.
     
-5. Github code repository: `<Create a Github Project>`
-6. Github Project/Trello Board: `<Post your link to your Kanban board>`
+5. Github code repository: https://github.com/jmmariscal/Mood-Tracker
+6. Github Project/Trello Board: https://www.notion.so/3ee4fdd8057a423bb1e1eb3f8282cc6b?v=c7eff0fd505f465a830043392c30af9d
 7. Create a Slack DM Group with your partner, TL, and Instructor and say "hi!"
 
 ## Part 1: Brainstorming
